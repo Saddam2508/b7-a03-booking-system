@@ -127,7 +127,8 @@ ERD Link:
 Example:
 
 ```
-https://app.diagrams.net/xxxxxxxx
+https://drawsql.app/teams/md-saddam/diagrams/football-ticket-booking-system
+
 ```
 
 ---
@@ -137,4 +138,4 @@ https://app.diagrams.net/xxxxxxxx
 **Md Saddam Hossain**
 
 GitHub:
-https://github.com/YOUR_GITHUB_USERNAME
+https://github.com/Saddam2508/b7-a03-booking-system
